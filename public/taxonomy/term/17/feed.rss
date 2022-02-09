@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://venue114.com.au/">
+  <channel>
+    <title>Just Announced</title>
+    <link>https://venue114.com.au/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>You’re invited to save a bro at In Conversation: Show Us Your Mo</title>
+  <link>https://venue114.com.au/node/282</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;You’re invited to save a bro at In Conversation: Show Us Your Mo&lt;/span&gt;
+
+            &lt;div class="field field--name-field-news-banner field--type-image field--label-hidden field__item"&gt;  &lt;img src="https://venue114.com.au/sites/default/files/2021-09/210202_V114_Movember_fb%20event%20cover%20page.jpg" width="1920" height="1080" alt="In Conversation - Show Us Your Mo" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://venue114.com.au/user/831" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;GC036&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 22/09/2021 - 14:49&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-field-news-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;This International Men’s Day (November 19) Venue 114 is thrilled to launch &lt;em&gt;In Con&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+      
+      &lt;div class="field field--name-field-news-tag field--type-entity-reference field--label-hidden field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://venue114.com.au/taxonomy/term/17" hreflang="en"&gt;Just Announced&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+  
+            &lt;div class="field field--name-field-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-09-22T12:00:00Z" class="datetime"&gt;Wed, 22/09/2021 - 12:00&lt;/time&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Wed, 22 Sep 2021 04:49:51 +0000</pubDate>
+    <dc:creator>GC036</dc:creator>
+    <guid isPermaLink="false">282 at https://venue114.com.au</guid>
+    </item>
+
+  </channel>
+</rss>
